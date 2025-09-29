@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\bin\Debug\SoftVidModel.dll.config
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\bin\Debug\SoftVidModel.dll
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\bin\Debug\SoftVidModel.pdb
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\obj\Debug\SoftVidModel.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\obj\Debug\SoftVidModel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\obj\Debug\SoftVidModel.dll
+C:\Users\Usuario\Documents\2025-2\Programación 3\Labs\Lab7\SoftVid\SoftVidModel\obj\Debug\SoftVidModel.pdb

@@ -1,0 +1,41 @@
+﻿using SoftVidPersistance.DAO;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using SoftVidModel;
+
+namespace SoftVidPersistance.DAOImpl
+{
+    public class GeneroDAOImpl : DAOImplBase, GeneroDAO
+    {
+        Genero genero;
+        public GeneroDAOImpl() : base("genero")
+        {
+        }
+        protected override void IncluirValorDeParametrosParaInsercion()
+        {
+            AgregarParametro("_id_genero", genero.Id_genero);
+            AgregarParametro("_descripcion_genero", genero.Descripcion_genero);
+        }
+        protected override void AgregarObjetoALaLista(IList<object> lista, System.Data.Common.DbDataReader lector)
+        {
+            this.genero = new Genero();
+            this.genero.Id_genero = lector.GetInt32(0);
+            this.genero.Descripcion_genero = lector.GetString(1);
+            lista.Add(genero);
+        }
+        public int insertar(Genero genero)
+        {
+            this.genero = genero;
+            String sql = "INSERTAR_GENERO";
+            return base.Insertar(sql);
+        }
+        public IList<Genero> listarGeneros()
+        {
+            string sql = "LISTAR_GENEROS";
+            return (IList<Genero>)base.ListarTodos(sql);
+        }
+    }
+}

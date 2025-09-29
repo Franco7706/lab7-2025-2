@@ -1,0 +1,47 @@
+﻿using SoftVidPersistance.DAO;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using SoftVidModel;
+using System.Data.Common;
+
+namespace SoftVidPersistance.DAOImpl
+{
+    public class CategoriaDAOImpl : DAOImplBase, CategoriaDAO
+    {
+        Categoria categoria;
+        public CategoriaDAOImpl() : base("categoria")
+        {
+
+        }
+        
+        protected override void IncluirValorDeParametrosParaInsercion()
+        {
+            AgregarParametro("_id_categoria", categoria.Id_categoria);
+            AgregarParametro("_descripcion_categoria", categoria.Descripcion_categoria);
+        }
+
+        protected override void AgregarObjetoALaLista(IList<object> lista, DbDataReader lector)
+        {
+            this.categoria= new Categoria();
+            this.categoria.Id_categoria = lector.GetChar(0);
+            this.categoria.Descripcion_categoria = lector.GetString(1);
+            lista.Add(categoria);
+        }
+
+        public int insertar(Categoria categoria)
+        {
+            this.categoria = categoria;
+            String sql = "INSERTAR_CATEGORIA";
+            return base.Insertar(sql);
+        }
+
+        public IList<Categoria> listarCategorias()
+        {
+            string sql = "LISTAR_CATEGORIAS";
+            return (IList<Categoria>) base.ListarTodos(sql);
+        }
+    }
+}
