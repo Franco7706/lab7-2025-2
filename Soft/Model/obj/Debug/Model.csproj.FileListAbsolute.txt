@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\bin\Debug\Model.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\bin\Debug\Model.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\obj\Debug\Model.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Soft\Model\obj\Debug\Model.pdb
