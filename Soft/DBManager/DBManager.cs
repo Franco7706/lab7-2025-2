@@ -83,7 +83,7 @@ namespace Soft.Db
 
         public static string Descifrar(string textoEncriptado)
         {
-            return textoEncriptado;
+            return Encoding.Unicode.GetString(Convert.FromBase64String(textoEncriptado));
         }
 
     }
