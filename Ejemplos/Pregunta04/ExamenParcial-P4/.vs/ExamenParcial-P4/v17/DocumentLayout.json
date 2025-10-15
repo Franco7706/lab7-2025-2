@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|c:\\users\\usuario\\documents\\2025-2\\progra3 material 25-1\\parcial\\parte practica\\pregunta04\\examenparcial-p4\\infraccionespresentacion\\views\\registroinfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:infraccionespresentacion\\views\\registroinfracciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\infraccionespresentacion\\views\\registroinfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:infraccionespresentacion\\views\\registroinfracciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|c:\\users\\usuario\\documents\\2025-2\\progra3 material 25-1\\parcial\\parte practica\\pregunta04\\examenparcial-p4\\infraccionespresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E11395C5-EA69-4415-A53E-328D2282A4CF}|InfraccionesPresentacion\\InfraccionesPresentacion.csproj|solutionrelative:infraccionespresentacion\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|c:\\users\\usuario\\documents\\2025-2\\progra3 material 25-1\\parcial\\parte practica\\pregunta04\\examenparcial-p4\\infraccionesnegocio\\infraccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A904589-3C55-41D5-A188-2C8B5C2CA033}|InfraccionesNegocio\\InfraccionesNegocio.csproj|solutionrelative:infraccionesnegocio\\infraccionbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1129,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfraccionBO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesNegocio\\InfraccionBO.cs",
+              "RelativeDocumentMoniker": "InfraccionesNegocio\\InfraccionBO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesNegocio\\InfraccionBO.cs",
+              "RelativeToolTip": "InfraccionesNegocio\\InfraccionBO.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIA+wGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:36:24.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Web.config",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Web.config",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Web.config",
+              "RelativeToolTip": "InfraccionesPresentacion\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-07T23:37:10.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroInfracciones.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-07T23:19:10.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroInfracciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "RelativeDocumentMoniker": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\2025-2\\progra3 material 25-1\\Parcial\\Parte practica\\Pregunta04\\ExamenParcial-P4\\InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "RelativeToolTip": "InfraccionesPresentacion\\Views\\RegistroInfracciones.aspx.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwH0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:18:58.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 147,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

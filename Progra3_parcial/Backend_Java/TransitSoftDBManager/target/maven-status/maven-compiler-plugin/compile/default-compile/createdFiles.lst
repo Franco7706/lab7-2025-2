@@ -1,0 +1,5 @@
+pe\com\transitsoft\transitsoftdbmanager\util\MotorDeBaseDeDatos.class
+pe\com\transitsoft\transitsoftdbmanager\DBManagerMSSQL.class
+pe\com\transitsoft\transitsoftdbmanager\DBManagerMySQL.class
+pe\com\transitsoft\transitsoftdbmanager\DBManager.class
+pe\com\transitsoft\transitsoftdbmanager\util\Cifrado.class

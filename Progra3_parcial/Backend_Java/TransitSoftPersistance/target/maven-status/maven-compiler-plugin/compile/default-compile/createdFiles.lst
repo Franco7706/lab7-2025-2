@@ -1,0 +1,7 @@
+pe\com\transitsoft\transitsoftpersistance\dao\CapturaDAO.class
+pe\com\transitsoft\transitsoftpersistance\daoimpl\util\Tipo_DML.class
+pe\com\transitsoft\transitsoftpersistance\daoimpl\DAOImplBase$1.class
+pe\com\transitsoft\transitsoftpersistance\daoimpl\DAOImplBase.class
+pe\com\transitsoft\transitsoftpersistance\dao\InfraccionDAO.class
+pe\com\transitsoft\transitsoftpersistance\daoimpl\CapturaDAOImpl.class
+pe\com\transitsoft\transitsoftpersistance\daoimpl\InfraccionDAOImpl.class
