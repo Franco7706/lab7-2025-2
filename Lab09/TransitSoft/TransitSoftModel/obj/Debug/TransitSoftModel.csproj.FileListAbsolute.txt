@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\bin\Debug\TransitSoftModel.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\bin\Debug\TransitSoftModel.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\obj\Debug\TransitSoftModel.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\obj\Debug\TransitSoftModel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\obj\Debug\TransitSoftModel.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab09\TransitSoft\TransitSoftModel\obj\Debug\TransitSoftModel.pdb
