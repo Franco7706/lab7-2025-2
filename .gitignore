@@ -2,3 +2,11 @@ bin/
 packages/
 .vs/
 /Progra3_parcial/Backend_Java/TransitSoftWS/target/
+/Lab14/TransitSoft/TransitSoftDBManager/target/
+/Lab14/TransitSoft/TransitSoftModel/target/
+/Lab14/TransitSoft/TransitSoftPersistance/target/
+/Lab14/TransitSoft/TransitSoftBusiness/target/
+/Lab14/TransitSoft/TransitSoftServidorWS/target/
+/Lab14/TransitSoft/TransitSoftClienteWS/nbproject/
+/Lab14/TransitSoft/TransitSoftClienteWS/target/
+/Lab14/TransitSoft/TransitSoftWS/target/
