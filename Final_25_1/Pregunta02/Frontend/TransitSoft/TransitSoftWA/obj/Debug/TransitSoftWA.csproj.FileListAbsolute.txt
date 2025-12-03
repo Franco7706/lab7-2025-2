@@ -1,0 +1,25 @@
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll.config
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\bin\TransitSoftWA.pdb
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.AssemblyReference.cache
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.dll
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.pdb
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll.config
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.pdb
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.AssemblyReference.cache
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.dll
+C:\Users\fredd\OneDrive\LP2\2025-1\Examen Final\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll.config
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftWA.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitSoftWA.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftBO.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftBO.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\bin\TransitSoftBO.dll.config
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftWA\obj\Debug\TransitS.0CA73F5D.Up2Date

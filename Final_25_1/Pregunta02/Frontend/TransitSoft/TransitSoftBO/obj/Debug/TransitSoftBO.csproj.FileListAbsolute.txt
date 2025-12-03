@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\bin\Debug\TransitSoftBO.dll.config
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\bin\Debug\TransitSoftBO.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\bin\Debug\TransitSoftBO.pdb
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\obj\Debug\TransitSoftBO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\obj\Debug\TransitSoftBO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\obj\Debug\TransitSoftBO.dll
+C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Final_25_1\Pregunta02\Frontend\TransitSoft\TransitSoftBO\obj\Debug\TransitSoftBO.pdb

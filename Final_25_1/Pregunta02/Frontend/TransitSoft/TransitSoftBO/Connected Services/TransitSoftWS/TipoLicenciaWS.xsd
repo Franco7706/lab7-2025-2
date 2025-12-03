@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://services.transitsoft.pucp.edu.pe/" targetNamespace="http://services.transitsoft.pucp.edu.pe/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="listarTiposLicencia" type="tns:listarTiposLicencia" />
+  <xs:element name="listarTiposLicenciaResponse" type="tns:listarTiposLicenciaResponse" />
+  <xs:complexType name="listarTiposLicencia">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="listarTiposLicenciaResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:tipoLicencia" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="tipoLicencia">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descripcion" type="xs:string" />
+      <xs:element name="idTipoLicencia" type="xs:int" />
+      <xs:element minOccurs="0" name="nombre" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

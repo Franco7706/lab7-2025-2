@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="42534eeb-3531-4cdb-b218-23ae0579f63a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/TransitSoftWS/servicios.disco" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="VehiculoWS.xsd" MetadataType="Schema" ID="a7b2b502-49fb-43f9-88c3-eb899e77a4b4" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/VehiculoWS?xsd=1" />
+    <MetadataFile FileName="TipoLicenciaWS.xsd" MetadataType="Schema" ID="83e8b2ca-fd59-479a-a1a6-6c868867f1f1" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/TipoLicenciaWS?xsd=1" />
+    <MetadataFile FileName="TipoLicenciaWS.wsdl" MetadataType="Wsdl" ID="17faa6ac-0ee6-4fee-9ee1-48bb9f8464ea" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/TipoLicenciaWS?WSDL" />
+    <MetadataFile FileName="ConductorWS.xsd" MetadataType="Schema" ID="ee2d6f0f-5e42-4a2a-a915-b6460be7bcdb" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/ConductorWS?xsd=1" />
+    <MetadataFile FileName="servicios.disco" MetadataType="Disco" ID="9ca4133c-a540-4da8-9bc1-345b83d423f4" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/servicios.disco" />
+    <MetadataFile FileName="VehiculoWS.wsdl" MetadataType="Wsdl" ID="0f8299cd-db4e-4f4c-acdb-8a0b9c6605f0" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/VehiculoWS?WSDL" />
+    <MetadataFile FileName="ConductorWS.wsdl" MetadataType="Wsdl" ID="4057f66f-1c92-40f5-8891-06e5d769f1c0" SourceId="1" SourceUrl="http://localhost:8080/TransitSoftWS/ConductorWS?WSDL" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

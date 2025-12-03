@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://services.transitsoft.pucp.edu.pe/" targetNamespace="http://services.transitsoft.pucp.edu.pe/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="listarVehiculosPorPlaca" type="tns:listarVehiculosPorPlaca" />
+  <xs:element name="listarVehiculosPorPlacaResponse" type="tns:listarVehiculosPorPlacaResponse" />
+  <xs:complexType name="listarVehiculosPorPlaca">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="placa" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="listarVehiculosPorPlacaResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:vehiculo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="vehiculo">
+    <xs:sequence>
+      <xs:element name="anho" type="xs:int" />
+      <xs:element name="idVehiculo" type="xs:int" />
+      <xs:element minOccurs="0" name="marca" type="xs:string" />
+      <xs:element minOccurs="0" name="modelo" type="xs:string" />
+      <xs:element minOccurs="0" name="placa" type="xs:string" />
+      <xs:element minOccurs="0" name="vehiculosConductores" type="tns:vehiculoConductor" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="vehiculoConductor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="conductor" type="tns:conductor" />
+      <xs:element minOccurs="0" name="fechaAdquisicion" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="vehiculo" type="tns:vehiculo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="conductor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="apellidoMaterno" type="xs:string" />
+      <xs:element minOccurs="0" name="apellidoPaterno" type="xs:string" />
+      <xs:element name="idConductor" type="xs:int" />
+      <xs:element minOccurs="0" name="nombres" type="xs:string" />
+      <xs:element minOccurs="0" name="numeroLicencia" type="xs:string" />
+      <xs:element name="puntosAcumulados" type="xs:int" />
+      <xs:element minOccurs="0" name="tipoLicencia" type="tns:tipoLicencia" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="tipoLicencia">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descripcion" type="xs:string" />
+      <xs:element name="idTipoLicencia" type="xs:int" />
+      <xs:element minOccurs="0" name="nombre" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
