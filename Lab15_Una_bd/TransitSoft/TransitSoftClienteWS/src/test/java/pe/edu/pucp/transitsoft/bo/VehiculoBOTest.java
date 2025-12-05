@@ -18,16 +18,14 @@ public class VehiculoBOTest {
         System.out.println("insertarOModificar");
         PropietarioDTO propietarioDTO = new PropietarioDTO();
         propietarioDTO.setId(1);
-        VehiculoDTO vehiculoDTO = new VehiculoDTO(0,"ZZZ-223","Kia","Rio",2021,propietarioDTO);
+        VehiculoDTO vehiculoDTO = new VehiculoDTO(0,"ZAA-223","Kia","Rio",2021,propietarioDTO);
         VehiculoDTO result = vehiculoBO.insertarOModificar(vehiculoDTO);
         assertNotEquals(result.getId(), 0);
-        System.out.println(result.getPlaca());
-        propietarioDTO = new PropietarioDTO();
-        propietarioDTO.setId(1);
-        vehiculoDTO = new VehiculoDTO(0,"ZZZ-223","Kia","Rio",2021,propietarioDTO);
-        result = vehiculoBO.insertarOModificar(vehiculoDTO);
+        System.out.println(result.getMarca());
+        result.setMarca("Chevrolet");
+        result = vehiculoBO.insertarOModificar(result);
         assertNotEquals(result.getId(), 0);
-        System.out.println(result.getPlaca());
+        System.out.println(result.getMarca());
     }
     
 }

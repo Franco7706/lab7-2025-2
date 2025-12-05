@@ -19,9 +19,6 @@ public class PropietarioBOTest {
         PropietarioDTO result = propietarioBO.obtenerPropietarioVehiculo(vehiculoId);
         assertNotEquals(result.getId(),0);
         System.out.println(result.getNombres() + " " + result.getApellidos());
-        result = propietarioBO.obtenerPropietarioVehiculo(vehiculoId);
-        assertNotEquals(result.getId(),0);
-        System.out.println(result.getNombres() + " " + result.getApellidos());
     }
     
 }

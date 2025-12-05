@@ -18,14 +18,14 @@ public class VehiculoBOTest {
         System.out.println("insertarOModificar");
         PropietarioDTO propietarioDTO = new PropietarioDTO();
         propietarioDTO.setId(1);
-        VehiculoDTO vehiculoDTO = new VehiculoDTO(0,"ABC-223","Kia","Rio",2021,propietarioDTO);
+        VehiculoDTO vehiculoDTO = new VehiculoDTO(0,"ABC-243","Kia","Rio",2021,propietarioDTO);
         String motor = "MySQL";
         VehiculoDTO result = vehiculoBO.insertarOModificar(vehiculoDTO, motor);
         assertNotEquals(result.getId(), 0);
         System.out.println(result.getPlaca());
         propietarioDTO = new PropietarioDTO();
         propietarioDTO.setId(1);
-        vehiculoDTO = new VehiculoDTO(0,"ABC-223","Kia","Rio",2021,propietarioDTO);
+        vehiculoDTO = new VehiculoDTO(0,"ABC-243","Kia","Rio",2021,propietarioDTO);
         motor = "MSSQL";
         result = vehiculoBO.insertarOModificar(vehiculoDTO, motor);
         assertNotEquals(result.getId(), 0);

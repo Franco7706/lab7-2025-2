@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pe.edu.pucp.transitsoft.db.DBManagerTest" time="2.354" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="pe.edu.pucp.transitsoft.db.DBManagerTest" time="2.49" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="PE"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Usuario\AppData\Local\Temp\surefire3719412700755588078\surefirebooter-20251204122344381_3.jar C:\Users\Usuario\AppData\Local\Temp\surefire3719412700755588078 2025-12-04T12-23-44_245-jvmRun1 surefire-20251204122344381_1tmp surefire_0-20251204122344381_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Usuario\AppData\Local\Temp\surefire9101996093609519995\surefirebooter-20251205104138670_3.jar C:\Users\Usuario\AppData\Local\Temp\surefire9101996093609519995 2025-12-05T10-41-38_569-jvmRun1 surefire-20251205104138670_1tmp surefire_0-20251205104138670_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab15_2025_2_20232163_Gallardo\TransitSoft\TransitSoftDBManager\target\test-classes;C:\Users\Usuario\Documents\2025-2\lab7-2025-2\Lab15_2025_2_20232163_Gallardo\TransitSoft\TransitSoftDBManager\target\classes;C:\Users\Usuario\.m2\repository\commons-codec\commons-codec\1.18.0\commons-codec-1.18.0.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Usuario\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Usuario\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Usuario\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Usuario\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\Usuario\.m2\repository\com\mysql\mysql-connector-j\9.4.0\mysql-connector-j-9.4.0.jar;C:\Users\Usuario\.m2\repository\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar;C:\Users\Usuario\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\13.2.0.jre11\mssql-jdbc-13.2.0.jre11.jar;C:\Users\Usuario\.m2\repository\net\bytebuddy\byte-buddy\1.15.11\byte-buddy-1.15.11.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Usuario\AppData\Local\Temp\surefire3719412700755588078\surefirebooter-20251204122344381_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Usuario\AppData\Local\Temp\surefire9101996093609519995\surefirebooter-20251205104138670_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.9+7-LTS-338"/>
@@ -59,7 +59,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testGetConnection" classname="pe.edu.pucp.transitsoft.db.DBManagerTest" time="2.34">
+  <testcase name="testGetConnection" classname="pe.edu.pucp.transitsoft.db.DBManagerTest" time="2.476">
     <system-out><![CDATA[getConnection
 jdbc:sqlserver://transitsoft-bd-mssql.crmk44qg06vq.us-east-1.rds.amazonaws.com:1433;databaseName=transitsoft;encrypt=false
 ]]></system-out>

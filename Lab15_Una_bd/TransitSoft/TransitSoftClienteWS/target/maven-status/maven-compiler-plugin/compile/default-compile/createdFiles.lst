@@ -1,2 +1,3 @@
 pe\edu\pucp\transitsoft\bo\PropietarioBO.class
 pe\edu\pucp\transitsoft\bo\VehiculoBO.class
+pe\edu\pucp\transitsoft\bo\BOBase.class
