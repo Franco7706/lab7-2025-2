@@ -1,0 +1,14 @@
+pe\pucp\transitsoft\dao\PropietarioDAO.class
+pe\pucp\transitsoft\dao\VehiculoDAO.class
+pe\edu\pucp\softinv\daoImp\DAOImplBase$1.class
+pe\edu\pucp\softinv\daoImp\PropietarioDAOImpl.class
+pe\pucp\transitsoft\dao\CapturaDAO.class
+pe\pucp\transitsoft\daoImp\util\Columna.class
+pe\edu\pucp\softinv\daoImp\CamaraDAOImpl.class
+pe\edu\pucp\softinv\daoImp\InfraccionDAOImpl.class
+pe\pucp\transitsoft\dao\CamaraDAO.class
+pe\pucp\transitsoft\daoImp\util\Tipo_Operacion.class
+pe\edu\pucp\softinv\daoImp\CapturaDAOImpl.class
+pe\edu\pucp\softinv\daoImp\VehiculoDAOImpl.class
+pe\edu\pucp\softinv\daoImp\DAOImplBase.class
+pe\pucp\transitsoft\dao\InfraccionDAO.class

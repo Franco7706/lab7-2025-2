@@ -1,0 +1,6 @@
+pe\pucp\transitsoft\util\DatosConexion.class
+pe\pucp\transitsoft\db\DBManagerMySQL.class
+pe\pucp\transitsoft\db\DBManagerMSSQL.class
+pe\pucp\transitsoft\util\Cifrado.class
+pe\pucp\transitsoft\util\MotorDeBaseDeDatos.class
+pe\pucp\transitsoft\db\DBManager.class

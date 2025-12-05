@@ -1,8 +1,0 @@
-pe\com\transitsoft\estrategia\EstrategiaGravesYMuyGraves.class
-pe\com\transitsoft\BOImpl\ConductorBOImpl.class
-pe\com\transitsoft\estrategia\EstrategiaModoGeneral.class
-pe\com\transitsoft\bo\TipoCampanha.class
-pe\com\transitsoft\estrategia\EstrategiaSoloMuyGraves.class
-pe\com\transitsoft\bo\IConductorBO.class
-pe\com\transitsoft\estrategia\EstrategiaCalculo.class
-pe\com\transitsoft\estrategia\Contexto.class
